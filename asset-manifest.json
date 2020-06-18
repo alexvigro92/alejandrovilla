@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/alejandrovilla/static/css/main.5dd581f1.chunk.css",
+    "main.js": "/alejandrovilla/static/js/main.32a70bc3.chunk.js",
+    "main.js.map": "/alejandrovilla/static/js/main.32a70bc3.chunk.js.map",
+    "runtime-main.js": "/alejandrovilla/static/js/runtime-main.b5754d30.js",
+    "runtime-main.js.map": "/alejandrovilla/static/js/runtime-main.b5754d30.js.map",
+    "static/js/2.b0cdd536.chunk.js": "/alejandrovilla/static/js/2.b0cdd536.chunk.js",
+    "static/js/2.b0cdd536.chunk.js.map": "/alejandrovilla/static/js/2.b0cdd536.chunk.js.map",
+    "index.html": "/alejandrovilla/index.html",
+    "precache-manifest.4f290476018189c88a73ec1d3a5ef8e4.js": "/alejandrovilla/precache-manifest.4f290476018189c88a73ec1d3a5ef8e4.js",
+    "service-worker.js": "/alejandrovilla/service-worker.js",
+    "static/css/main.5dd581f1.chunk.css.map": "/alejandrovilla/static/css/main.5dd581f1.chunk.css.map",
+    "static/js/2.b0cdd536.chunk.js.LICENSE.txt": "/alejandrovilla/static/js/2.b0cdd536.chunk.js.LICENSE.txt",
+    "static/media/Alejandro Villa Resume.pdf": "/alejandrovilla/static/media/Alejandro Villa Resume.ad57b263.pdf",
+    "static/media/VillaSimpson.png": "/alejandrovilla/static/media/VillaSimpson.587a3d16.png",
+    "static/media/angular.png": "/alejandrovilla/static/media/angular.ac5e6fae.png",
+    "static/media/background.jpg": "/alejandrovilla/static/media/background.048546ac.jpg",
+    "static/media/database.png": "/alejandrovilla/static/media/database.946fc4d2.png",
+    "static/media/devops.png": "/alejandrovilla/static/media/devops.2ae36a77.png",
+    "static/media/docker.png": "/alejandrovilla/static/media/docker.2ca65f83.png",
+    "static/media/ibmCloud.png": "/alejandrovilla/static/media/ibmCloud.8c563a48.png",
+    "static/media/iot.png": "/alejandrovilla/static/media/iot.ece283ab.png",
+    "static/media/kubernetes.png": "/alejandrovilla/static/media/kubernetes.4655ae6f.png",
+    "static/media/mavg1.jpg": "/alejandrovilla/static/media/mavg1.016733cc.jpg",
+    "static/media/mavg2.jpg": "/alejandrovilla/static/media/mavg2.fa84f6eb.jpg",
+    "static/media/mavg3.jpg": "/alejandrovilla/static/media/mavg3.1c82d68e.jpg",
+    "static/media/mavg4.jpg": "/alejandrovilla/static/media/mavg4.a85490e0.jpg",
+    "static/media/mavg5.jpg": "/alejandrovilla/static/media/mavg5.98c04550.jpg",
+    "static/media/nodejs.png": "/alejandrovilla/static/media/nodejs.6cbe7268.png",
+    "static/media/openshift.png": "/alejandrovilla/static/media/openshift.f99b25da.png",
+    "static/media/rabbit.png": "/alejandrovilla/static/media/rabbit.5b14848a.png",
+    "static/media/react.png": "/alejandrovilla/static/media/react.47ce6e77.png",
+    "static/media/redux.png": "/alejandrovilla/static/media/redux.8251fe76.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5754d30.js",
+    "static/js/2.b0cdd536.chunk.js",
+    "static/css/main.5dd581f1.chunk.css",
+    "static/js/main.32a70bc3.chunk.js"
+  ]
+}
